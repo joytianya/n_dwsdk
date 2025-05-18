@@ -1,0 +1,8 @@
+{
+    "manifest": {
+        "softdevice": {
+            "bin_file": "softdevice_s132.bin",
+            "dat_file": "softdevice_s132.dat"
+        }
+    }
+}

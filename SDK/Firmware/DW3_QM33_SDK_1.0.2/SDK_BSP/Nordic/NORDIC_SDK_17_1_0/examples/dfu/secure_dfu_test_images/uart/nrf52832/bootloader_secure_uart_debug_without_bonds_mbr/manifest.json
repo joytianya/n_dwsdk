@@ -1,0 +1,8 @@
+{
+    "manifest": {
+        "bootloader": {
+            "bin_file": "nrf52832_xxaa_mbr.bin",
+            "dat_file": "nrf52832_xxaa_mbr.dat"
+        }
+    }
+}

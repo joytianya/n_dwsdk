@@ -1,0 +1,5 @@
+{
+    "build": "UCI",
+    "board": "nRF52840DK",
+    "cpu": "nrf52840"
+}
